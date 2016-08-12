@@ -1,3 +1,14 @@
+.breadcrumb {
+  display: none;
+}
+header {
+  background-image: url('http://localhost/lacasita/sites/default/files/img/menu.png');
+  background-size: 813px 64px;
+}
+.layout-swap {
+  background-image: url('http://localhost/lacasita/sites/default/files/img/fondo.png');
+  background-size: 813px 64px;
+}
 * {
   box-sizing: border-box;
 }

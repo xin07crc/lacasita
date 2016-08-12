@@ -74,19 +74,7 @@
     </div>
   </div>
 
-  <div class="menu-wrap">
-    <div class="full-wrap clearfix">
-      <nav id="main-menu" role="navigation">
-        <a class="nav-toggle" href="#">Navigation</a>
-        <div class="menu-navigation-container">
-          <?php $main_menu_tree = menu_tree(variable_get('menu_main_links_source', 'main-menu')); 
-            print drupal_render($main_menu_tree);
-          ?>
-        </div>
-        <div class="clear"></div>
-      </nav>
-    </div>
-  </div>
+
 
   <header class="siteheader">
 

@@ -1389,14 +1389,14 @@ article,
 #main-menu ul { display:none; }
 
 #main-menu.staticmenu{ 
-  position: fixed;
+  /*position: fixed;
   top: 0;
   right: 0;
   bottom: 0;
   background: #000;
   width: 100%;
   overflow: hidden;
-  left: 0;
+  left: 0;*/
   z-index: 9;
 }
 .staticmenu .menu-navigation-container{
@@ -1482,4 +1482,45 @@ article,
   background: #0D0D0D; 
   background-image: none; 
   padding-right: 0; 
+}
+
+#block-views-quienes-somos-block-1 {
+  margin: 0px;
+  max-width: none;
+}
+header, .user-menu-wrapper, .nav-toggle {
+  display: none!important;
+}
+.views-row  {
+  float: left;
+  width: 100%;
+  height: 92vh;
+}
+.views-row-1 {
+  background-image: url("../images/fondo1.png");
+  background-size: 100% 100%;
+}
+.views-row-2 {
+  background-image: url("../images/fondo1.png");
+  background-size: 100% 100%;
+}
+
+.views-field-field-somo-texto {
+  margin-top: 69vh;
+}
+.view-content {
+  margin-top: 8vh;
+}
+.menu-wrap {
+  background-color: transparent;
+  background-image: url("../images/menu.png");
+  background-size: 100% 100%;
+  z-index: 9999;
+  position: fixed;
+  width: 100%;
+  height: 8vh;
+}
+#main-menu {
+  display: block;
+  background: transparent;
 }
