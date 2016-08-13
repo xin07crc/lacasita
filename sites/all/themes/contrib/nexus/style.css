@@ -1261,6 +1261,26 @@ font-weight: bold;
   background-image: url('images/pie.png');
   background-size:100% 100%;
 }
+#colophon .row {
+  padding-top: 3%;
+}
+.pie-derecha {
+  width: 43%;
+  padding-top: 2%;
+  float: right;
+}
+.pie-izquierda {
+  width: 57%;
+  padding-top: 1%;
+  float: left;
+}
+.logo-pie {
+  float: left;
+  width: 7%;
+}
+#colophon .container p {
+  font-size: 15px;
+}
 /*CONCRETAS DE PAGINAS*/
 /*HOME*/
 .front .container {
