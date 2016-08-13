@@ -1202,6 +1202,11 @@ header .title {
 		padding-bottom: 17%;
 }
 
+.page-node-10 #main-content{
+		background-image: url('images/COMO%20TRABAJAMOS_metodologia.png');
+		padding-bottom: 10%;
+}
+
 #main-content footer {
   display: none;
 }
