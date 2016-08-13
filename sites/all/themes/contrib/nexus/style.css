@@ -1232,11 +1232,40 @@ font-weight: bold;
 .site-footer {
   background-color: #fad1c6;
 }
-
-
-
-
-
+/*CONCRETAS DE PAGINAS*/
+/*HOME*/
+.front .container {
+  margin-right: 0px;
+  width: 100%;
+  margin-left: 0px;
+  max-width: none;
+}
+.home-div-logo {
+  width: 100%;
+  float: left;
+  text-align: center;
+}
+.home-div-texto {
+  margin-top: 5%;
+  width: 100%;
+  float: left;
+}
+.home-div-imagen {
+  width: 100%;
+  float: left;
+}
+.front #page .node .content .home-logo {
+  width: 25%;
+  margin-left: 36%;
+  border: 0px;
+}
+.front #page .node .content .home-slide {
+  width: 100%;
+  max-width: 100%;
+  border: 0px;
+  margin: 0px;
+  padding: 0px;
+}
 
 
 @media screen and (max-width: 768px) {
