@@ -1197,6 +1197,11 @@ header .title {
 		padding-bottom: 17%;
 }
 
+.page-node-8 #main-content {
+		background-image: url('images/COMO%20TRABAJAMOS_home.png');
+		padding-bottom: 17%;
+}
+
 #main-content footer {
   display: none;
 }
