@@ -1191,6 +1191,12 @@ header .title {
 .page-node-4 #main-content, .page-node-6  #main-content {
   background-image: url('images/QUIENES%20SOMOS_equipo1.png');
 }
+
+.page-node-7 #main-content {
+		background-image: url('images/QUIENES%20SOMOS_filosofía.png');
+		padding-bottom: 17%;
+}
+
 #main-content footer {
   display: none;
 }
@@ -1199,9 +1205,18 @@ header .title {
 }
 .nombre {
   color: #EF9788;
+  font-weight: bold;
 }
+
+.verde{
+color: #9EC5B2;
+font-weight: bold;
+}
+
 .texto {
   color: #9EC5B2;
+  font-weight: bold;
+  font-style: italic;
 }
 #main-content .container .row {
   text-align: center;
