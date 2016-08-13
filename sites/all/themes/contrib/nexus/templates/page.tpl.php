@@ -203,7 +203,7 @@
     <div class="container">
       <div class="row">
         <div class="pie-izquierda">
-          <img class="logo-pie" src="sites/all/themes/contrib/nexus/images/facebook-logo.png">
+          <img class="logo-pie" src="http://localhost/lacasita/sites/all/themes/contrib/nexus/images/facebook-logo.png">
           <p style="margin-bottom: 0px;padding-top: 5px;">
             C/ Lehendakari Leizaola, bajo 1-3
           </p>
@@ -213,9 +213,9 @@
         </div>
         <div class="pie-derecha">
           <p>www.lacasitadecasilda.com
-          <img src="sites/all/themes/contrib/nexus/images/close-envelope.png">
+          <img src="http://localhost/lacasita/sites/all/themes/contrib/nexus/images/close-envelope.png">
           info@lacasitadecasilda.com
-          <img src="sites/all/themes/contrib/nexus/images/old-typical-phone.png">
+          <img src="http://localhost/lacasita/sites/all/themes/contrib/nexus/images/old-typical-phone.png">
           606 866 676</p>
         </div>
     </div>
