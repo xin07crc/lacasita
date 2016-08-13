@@ -1235,7 +1235,9 @@ font-weight: bold;
 }
 /*footer*/
 .site-footer {
-  background-color: #fad1c6;
+  background-color: transparent;
+  background-image: url('images/pie.png');
+  background-size:100% 100%;
 }
 /*CONCRETAS DE PAGINAS*/
 /*HOME*/
