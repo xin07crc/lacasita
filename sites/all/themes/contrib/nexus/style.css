@@ -1165,6 +1165,16 @@ header .title {
   height: 92px;
   background-color: #E7F1EC;
 }
+.sub-menu-a-izquierda {
+  margin-right: 10px;
+}
+.sub-menu-a-derecha {
+  margin-left: 10px;
+}
+.sub-menu-a-centro {
+  margin-right: 10px;
+  margin-left: 10px;
+}
 .sub-menu a {
   color: black;
 }
@@ -1176,8 +1186,10 @@ header .title {
   height: auto;
   min-height: 80vh;
   width: 100%;
-  background-image: url('images/QUIENES%20SOMOS_equipo1.png');
   background-size: 100% 100%;
+}
+.page-node-4 #main-content, .page-node-6  #main-content {
+  background-image: url('images/QUIENES%20SOMOS_equipo1.png');
 }
 #main-content footer {
   display: none;
@@ -1198,19 +1210,13 @@ header .title {
 #main-content .container .row .field-item {
   font-size: 23px;
 }
-
-.site-footer {
-  background-color: #fad1c6;
-}
-
 .page-title, #breadcrumbs {
   display: none;
 }
-
-/**/
-
-
-
+/*footer*/
+.site-footer {
+  background-color: #fad1c6;
+}
 
 
 
