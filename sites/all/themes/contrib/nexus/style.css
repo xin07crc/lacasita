@@ -1216,6 +1216,14 @@ header .title {
 		margin-left: 25%;
 }
 
+.page-node-12 #main-content{
+		background-image: url('images/COMO%20TRABAJAMOS_ubicacion.png');
+}
+
+.ct-3-1{
+	text-align: left;
+}
+
 #main-content footer {
   display: none;
 }
