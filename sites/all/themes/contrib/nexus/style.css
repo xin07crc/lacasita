@@ -1207,6 +1207,15 @@ header .title {
 		padding-bottom: 10%;
 }
 
+.page-node-11 #main-content{
+		background-image: url('images/COMO%20TRABAJAMOS_espacio.png');
+}
+
+.ct-2-1{
+		text-align: left;
+		margin-left: 25%;
+}
+
 #main-content footer {
   display: none;
 }
