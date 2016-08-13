@@ -202,10 +202,22 @@
   <footer id="colophon" class="site-footer" role="contentinfo">
     <div class="container">
       <div class="row">
-        <div class="fcred col-sm-12">
-          <?php print t('Copyright'); ?> &copy; <?php echo date("Y"); ?>, <a href="<?php print $front_page; ?>"><?php print $site_name; ?></a>. <?php print t('Theme by'); ?>  <a href="http://www.devsaran.com" target="_blank">Devsaran</a>.
+        <div class="pie-izquierda">
+          <img class="logo-pie" src="sites/all/themes/contrib/nexus/images/facebook-logo.png">
+          <p style="margin-bottom: 0px;padding-top: 5px;">
+            C/ Lehendakari Leizaola, bajo 1-3
+          </p>
+          <p>
+            Plaza Euskadi - Parque de Doña Casilda, Bilbao
+          </p>
         </div>
-      </div>
+        <div class="pie-derecha">
+          <p>www.lacasitadecasilda.com
+          <img src="sites/all/themes/contrib/nexus/images/close-envelope.png">
+          info@lacasitadecasilda.com
+          <img src="sites/all/themes/contrib/nexus/images/old-typical-phone.png">
+          606 866 676</p>
+        </div>
     </div>
   </div>
 </div>
