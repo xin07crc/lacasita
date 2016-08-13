@@ -1156,6 +1156,7 @@ header .title {
   visibility: hidden;
 }
 .sub-menu {
+  margin-top: 4px;
   text-align: center;
   font-size: 23px;
 }
